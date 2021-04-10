@@ -1,0 +1,208 @@
+{
+    "description": "For practice of the first patterns.",
+    "name": "Opening",
+    "syncUrl": "",
+    "id": "92596030-2480-47c9-ac10-56c54dabe481",
+    "items": {
+        "29892a11-3415-404c-922e-da819a112340": {
+            "description": "",
+            "name": "I",
+            "syncUrl": "",
+            "id": "29892a11-3415-404c-922e-da819a112340",
+            "items": {
+                "d7bcbb6c-15e8-4fad-ba05-8c44de854682": {
+                    "name": "I",
+                    "description": "",
+                    "parameters": "np=I&m=0&v=2.03",
+                    "id": "d7bcbb6c-15e8-4fad-ba05-8c44de854682",
+                    "syncUrl": "",
+                    "type": 2
+                }
+            },
+            "type": 1
+        },
+        "0e24c664-28e3-45e8-886a-975e7bc1436b": {
+            "description": "",
+            "name": "J",
+            "syncUrl": "",
+            "id": "0e24c664-28e3-45e8-886a-975e7bc1436b",
+            "items": {
+                "7a54f0f0-5775-4b05-b09e-96ba2a9d3ff1": {
+                    "name": "JL",
+                    "description": "",
+                    "parameters": "np=JL&m=0&v=2.03",
+                    "id": "7a54f0f0-5775-4b05-b09e-96ba2a9d3ff1",
+                    "syncUrl": "",
+                    "type": 2
+                },
+                "37a38f99-22e2-4318-89a9-0fc76ea93b00": {
+                    "name": "J",
+                    "description": "",
+                    "parameters": "np=J&m=0&v=2.03",
+                    "id": "37a38f99-22e2-4318-89a9-0fc76ea93b00",
+                    "syncUrl": "",
+                    "type": 2
+                },
+                "8f3b7596-58e3-4a1f-a03d-9606930ca65f": {
+                    "name": "JLO",
+                    "description": "",
+                    "parameters": "np=JLO&m=0&v=2.03",
+                    "id": "8f3b7596-58e3-4a1f-a03d-9606930ca65f",
+                    "syncUrl": "",
+                    "type": 2
+                },
+                "cd2bf9c3-d7c6-4b97-b553-4d412a149161": {
+                    "name": "JLT",
+                    "description": "",
+                    "parameters": "np=JLT&m=0&v=2.03",
+                    "id": "cd2bf9c3-d7c6-4b97-b553-4d412a149161",
+                    "syncUrl": "",
+                    "type": 2
+                }
+            },
+            "type": 1
+        },
+        "f24ebe69-3957-4aff-a61e-366684c918ca": {
+            "description": "",
+            "name": "L",
+            "syncUrl": "",
+            "id": "f24ebe69-3957-4aff-a61e-366684c918ca",
+            "items": {
+                "a3ef5d0b-b6a0-445a-a46f-0c03d4ec4581": {
+                    "name": "LJ",
+                    "description": "",
+                    "parameters": "np=LJ&m=0&v=2.03",
+                    "id": "a3ef5d0b-b6a0-445a-a46f-0c03d4ec4581",
+                    "syncUrl": "",
+                    "type": 2
+                },
+                "ce6b9797-b1e9-410e-897d-efe83f49de74": {
+                    "name": "LJO",
+                    "description": "",
+                    "parameters": "np=LJO&m=0&v=2.03",
+                    "id": "ce6b9797-b1e9-410e-897d-efe83f49de74",
+                    "syncUrl": "",
+                    "type": 2
+                },
+                "a5f40928-bc7d-42b5-b8cd-6b53ea354c55": {
+                    "name": "L",
+                    "description": "",
+                    "parameters": "np=L&m=0&v=2.03",
+                    "id": "a5f40928-bc7d-42b5-b8cd-6b53ea354c55",
+                    "syncUrl": "",
+                    "type": 2
+                },
+                "e959b1f9-472f-418c-8506-3990a21afc11": {
+                    "name": "LJT",
+                    "description": "",
+                    "parameters": "np=LJT&m=0&v=2.03",
+                    "id": "e959b1f9-472f-418c-8506-3990a21afc11",
+                    "syncUrl": "",
+                    "type": 2
+                }
+            },
+            "type": 1
+        },
+        "0ee132da-63a5-471b-b571-bd1a67ebe2f3": {
+            "description": "",
+            "name": "O",
+            "syncUrl": "",
+            "id": "0ee132da-63a5-471b-b571-bd1a67ebe2f3",
+            "items": {
+                "fb2cded3-5085-4a3e-8f77-d87d35cbf914": {
+                    "name": "O",
+                    "description": "",
+                    "parameters": "np=O&m=0&v=2.03",
+                    "id": "fb2cded3-5085-4a3e-8f77-d87d35cbf914",
+                    "syncUrl": "",
+                    "type": 2
+                }
+            },
+            "type": 1
+        },
+        "61c40baa-ea99-4171-8dee-af29e8b5d836": {
+            "description": "",
+            "name": "S",
+            "syncUrl": "",
+            "id": "61c40baa-ea99-4171-8dee-af29e8b5d836",
+            "items": {
+                "8096f44f-234a-4bb3-b4e8-8cc18853b142": {
+                    "name": "S",
+                    "description": "",
+                    "parameters": "np=S&m=0&v=2.03",
+                    "id": "8096f44f-234a-4bb3-b4e8-8cc18853b142",
+                    "syncUrl": "",
+                    "type": 2
+                },
+                "d49d2203-3fdd-4526-bb0b-28ba878e5e23": {
+                    "name": "SZ",
+                    "description": "",
+                    "parameters": "np=SZ&m=0&v=2.03",
+                    "id": "d49d2203-3fdd-4526-bb0b-28ba878e5e23",
+                    "syncUrl": "",
+                    "type": 2
+                },
+                "ce201d6d-1793-4b42-87f9-5bcd1a4fb0ce": {
+                    "name": "SZO",
+                    "description": "",
+                    "parameters": "np=SZO&m=0&v=2.03",
+                    "id": "ce201d6d-1793-4b42-87f9-5bcd1a4fb0ce",
+                    "syncUrl": "",
+                    "type": 2
+                }
+            },
+            "type": 1
+        },
+        "add72eb6-67b1-412e-8e0b-85de669f0699": {
+            "description": "",
+            "name": "T",
+            "syncUrl": "",
+            "id": "add72eb6-67b1-412e-8e0b-85de669f0699",
+            "items": {
+                "a0066d21-4e29-4cd4-afcc-f3defc15a2bf": {
+                    "name": "T",
+                    "description": "",
+                    "parameters": "np=T&m=0&v=2.03",
+                    "id": "a0066d21-4e29-4cd4-afcc-f3defc15a2bf",
+                    "syncUrl": "",
+                    "type": 2
+                }
+            },
+            "type": 1
+        },
+        "f1aa77d3-197d-46d0-9dc5-c7b95fac348c": {
+            "description": "",
+            "name": "Z",
+            "syncUrl": "",
+            "id": "f1aa77d3-197d-46d0-9dc5-c7b95fac348c",
+            "items": {
+                "d769b4a6-0405-46aa-acb8-ec2017171e77": {
+                    "name": "Z",
+                    "description": "",
+                    "parameters": "np=Z&m=0&v=2.03",
+                    "id": "d769b4a6-0405-46aa-acb8-ec2017171e77",
+                    "syncUrl": "",
+                    "type": 2
+                },
+                "c69b2bfd-1bfc-4dec-a802-56dd17e97337": {
+                    "name": "ZSO",
+                    "description": "",
+                    "parameters": "np=ZSO&m=0&v=2.03",
+                    "id": "c69b2bfd-1bfc-4dec-a802-56dd17e97337",
+                    "syncUrl": "",
+                    "type": 2
+                },
+                "a67118f3-fec9-42a0-96bd-5d2888727ee2": {
+                    "name": "ZS",
+                    "description": "",
+                    "parameters": "np=ZS&m=0&v=2.03",
+                    "id": "a67118f3-fec9-42a0-96bd-5d2888727ee2",
+                    "syncUrl": "",
+                    "type": 2
+                }
+            },
+            "type": 1
+        }
+    },
+    "type": 1
+}
