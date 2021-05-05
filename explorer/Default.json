@@ -1,0 +1,25 @@
+{
+  "type": 1,
+  "description": "",
+  "id": "b9bb2fb4-992c-4691-91ca-b3f1fc698525",
+  "items": {
+    "92596030-2480-47c9-ac10-56c54dabe481": {
+      "description": "For practice of the first patterns.",
+      "name": "OpeningPatterns",
+      "id": "92596030-2480-47c9-ac10-56c54dabe481",
+      "items": {},
+      "syncUrl": "https://raw.githubusercontent.com/cuboktahedron/tetsimu2-data/main/explorer/OpeningPatterns.json",
+      "type": 1
+    },
+    "5b386f81-6789-46a4-8b44-d2d0b2734a51": {
+      "description": "",
+      "name": "Ren",
+      "id": "5b386f81-6789-46a4-8b44-d2d0b2734a51",
+      "items": {},
+      "syncUrl": "https://raw.githubusercontent.com/cuboktahedron/tetsimu2-data/main/explorer/Ren.json",
+      "type": 1
+    }
+  },
+  "name": "Default",
+  "syncUrl": "https://raw.githubusercontent.com/cuboktahedron/tetsimu2-data/main/explorer/Default.json"
+}

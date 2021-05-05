@@ -1,0 +1,416 @@
+{
+  "type": 1,
+  "description": "For practice of the opening patterns.",
+  "id": "92596030-2480-47c9-ac10-56c54dabe481",
+  "items": {
+    "29892a11-3415-404c-922e-da819a112340": {
+      "description": "",
+      "name": "I",
+      "syncUrl": "",
+      "id": "29892a11-3415-404c-922e-da819a112340",
+      "items": {
+        "d7bcbb6c-15e8-4fad-ba05-8c44de854682": {
+          "name": "I",
+          "description": "",
+          "parameters": "np=I&m=0&v=2.03",
+          "id": "d7bcbb6c-15e8-4fad-ba05-8c44de854682",
+          "syncUrl": "",
+          "type": 2
+        },
+        "f3de1cee-dada-4dbd-952b-99e42fffcb2e": {
+          "name": "IJ",
+          "description": "",
+          "parameters": "np=IJ&m=0&v=2.04",
+          "id": "f3de1cee-dada-4dbd-952b-99e42fffcb2e",
+          "type": 2
+        },
+        "e9670522-4fe6-4704-bf53-d88c809e590b": {
+          "name": "IL",
+          "description": "",
+          "parameters": "np=IL&m=0&v=2.04",
+          "id": "e9670522-4fe6-4704-bf53-d88c809e590b",
+          "type": 2
+        },
+        "416ee652-b1c9-4583-8fee-c7dd6c2885c6": {
+          "name": "IO",
+          "description": "",
+          "parameters": "np=IO&m=0&v=2.04",
+          "id": "416ee652-b1c9-4583-8fee-c7dd6c2885c6",
+          "type": 2
+        },
+        "7421e18d-8133-43f3-9041-82d687b1fdc7": {
+          "name": "IS",
+          "description": "",
+          "parameters": "np=IS&m=0&v=2.04",
+          "id": "7421e18d-8133-43f3-9041-82d687b1fdc7",
+          "type": 2
+        },
+        "b838e6fc-6d01-4a4a-9ec0-95f0e95209de": {
+          "name": "IT",
+          "description": "",
+          "parameters": "np=IT&m=0&v=2.04",
+          "id": "b838e6fc-6d01-4a4a-9ec0-95f0e95209de",
+          "type": 2
+        },
+        "0db84934-6ebf-46b1-84cf-0790662d212f": {
+          "name": "IZ",
+          "description": "",
+          "parameters": "np=IZ&m=0&v=2.04",
+          "id": "0db84934-6ebf-46b1-84cf-0790662d212f",
+          "type": 2
+        }
+      },
+      "type": 1
+    },
+    "0e24c664-28e3-45e8-886a-975e7bc1436b": {
+      "description": "",
+      "name": "J",
+      "syncUrl": "",
+      "id": "0e24c664-28e3-45e8-886a-975e7bc1436b",
+      "items": {
+        "37a38f99-22e2-4318-89a9-0fc76ea93b00": {
+          "name": "J",
+          "description": "",
+          "parameters": "np=J&m=0&v=2.04",
+          "id": "37a38f99-22e2-4318-89a9-0fc76ea93b00",
+          "type": 2
+        },
+        "911417ea-4e7c-4c3d-aeae-67c778badc4c": {
+          "name": "JI",
+          "description": "",
+          "parameters": "np=JI&m=0&v=2.04",
+          "id": "911417ea-4e7c-4c3d-aeae-67c778badc4c",
+          "type": 2
+        },
+        "25994e98-70b7-4415-a00a-24d63e6584ce": {
+          "name": "JL",
+          "description": "",
+          "parameters": "np=JL&m=0&v=2.04",
+          "id": "25994e98-70b7-4415-a00a-24d63e6584ce",
+          "type": 2
+        },
+        "6c71a20e-471c-4e40-870c-7b857286d108": {
+          "name": "JO",
+          "description": "",
+          "parameters": "np=JO&m=0&v=2.04",
+          "id": "6c71a20e-471c-4e40-870c-7b857286d108",
+          "type": 2
+        },
+        "92204dc3-e1b4-4ca3-8c28-3a5e56860313": {
+          "name": "JS",
+          "description": "",
+          "parameters": "np=JS&m=0&v=2.04",
+          "id": "92204dc3-e1b4-4ca3-8c28-3a5e56860313",
+          "type": 2
+        },
+        "77a49387-c5a8-4665-b63c-71c64cc11048": {
+          "name": "JT",
+          "description": "",
+          "parameters": "np=JT&m=0&v=2.04",
+          "id": "77a49387-c5a8-4665-b63c-71c64cc11048",
+          "type": 2
+        },
+        "9efa95d8-3582-4aa0-93de-3413d9ae455f": {
+          "name": "JZ",
+          "description": "",
+          "parameters": "np=JZ&m=0&v=2.04",
+          "id": "9efa95d8-3582-4aa0-93de-3413d9ae455f",
+          "type": 2
+        }
+      },
+      "type": 1
+    },
+    "f24ebe69-3957-4aff-a61e-366684c918ca": {
+      "description": "",
+      "name": "L",
+      "syncUrl": "",
+      "id": "f24ebe69-3957-4aff-a61e-366684c918ca",
+      "items": {
+        "a5f40928-bc7d-42b5-b8cd-6b53ea354c55": {
+          "name": "L",
+          "description": "",
+          "parameters": "np=L&m=0&v=2.04",
+          "id": "a5f40928-bc7d-42b5-b8cd-6b53ea354c55",
+          "type": 2
+        },
+        "9204d952-444a-4393-a874-78283668250a": {
+          "name": "LI",
+          "description": "",
+          "parameters": "np=LI&m=0&v=2.04",
+          "id": "9204d952-444a-4393-a874-78283668250a",
+          "type": 2
+        },
+        "ee0791e6-e076-4b97-bf49-352048187e41": {
+          "name": "LJ",
+          "description": "",
+          "parameters": "np=LJ&m=0&v=2.04",
+          "id": "ee0791e6-e076-4b97-bf49-352048187e41",
+          "type": 2
+        },
+        "013f7f50-cde1-4ff7-ad41-70ace4e9d5df": {
+          "name": "LO",
+          "description": "",
+          "parameters": "np=LO&m=0&v=2.04",
+          "id": "013f7f50-cde1-4ff7-ad41-70ace4e9d5df",
+          "type": 2
+        },
+        "f5b1be8e-cf21-40f4-8b78-93dee0771eed": {
+          "name": "LS",
+          "description": "",
+          "parameters": "np=LS&m=0&v=2.04",
+          "id": "f5b1be8e-cf21-40f4-8b78-93dee0771eed",
+          "type": 2
+        },
+        "21c4ffb3-2158-4296-813f-2048a453ed49": {
+          "name": "LT",
+          "description": "",
+          "parameters": "np=LT&m=0&v=2.04",
+          "id": "21c4ffb3-2158-4296-813f-2048a453ed49",
+          "type": 2
+        },
+        "3cc4264a-eca2-4116-81c7-21d7ccef6f3f": {
+          "name": "LZ",
+          "description": "",
+          "parameters": "np=LZ&m=0&v=2.04",
+          "id": "3cc4264a-eca2-4116-81c7-21d7ccef6f3f",
+          "type": 2
+        }
+      },
+      "type": 1
+    },
+    "0ee132da-63a5-471b-b571-bd1a67ebe2f3": {
+      "description": "",
+      "name": "O",
+      "syncUrl": "",
+      "id": "0ee132da-63a5-471b-b571-bd1a67ebe2f3",
+      "items": {
+        "fb2cded3-5085-4a3e-8f77-d87d35cbf914": {
+          "name": "O",
+          "description": "",
+          "parameters": "np=O&m=0&v=2.04",
+          "id": "fb2cded3-5085-4a3e-8f77-d87d35cbf914",
+          "type": 2
+        },
+        "98471765-bd1d-48e7-96ce-3ce288741ad3": {
+          "name": "OI",
+          "description": "",
+          "parameters": "np=OI&m=0&v=2.04",
+          "id": "98471765-bd1d-48e7-96ce-3ce288741ad3",
+          "type": 2
+        },
+        "ed28f539-e094-4cfe-a42a-10a754773c22": {
+          "name": "OJ",
+          "description": "",
+          "parameters": "np=OJ&m=0&v=2.04",
+          "id": "ed28f539-e094-4cfe-a42a-10a754773c22",
+          "type": 2
+        },
+        "a489a94e-b811-4c03-a750-9f8753ab4552": {
+          "name": "OL",
+          "description": "",
+          "parameters": "np=OL&m=0&v=2.04",
+          "id": "a489a94e-b811-4c03-a750-9f8753ab4552",
+          "type": 2
+        },
+        "24b14091-9f0d-4972-9f84-d9d129c8f6d9": {
+          "name": "OS",
+          "description": "",
+          "parameters": "np=OS&m=0&v=2.04",
+          "id": "24b14091-9f0d-4972-9f84-d9d129c8f6d9",
+          "type": 2
+        },
+        "03f19044-63b4-4a6b-aeee-770d44977850": {
+          "name": "OT",
+          "description": "",
+          "parameters": "np=OT&m=0&v=2.04",
+          "id": "03f19044-63b4-4a6b-aeee-770d44977850",
+          "type": 2
+        },
+        "904f5bc9-d5bc-4292-8aea-260c7bee621f": {
+          "name": "OZ",
+          "description": "",
+          "parameters": "np=OZ&m=0&v=2.04",
+          "id": "904f5bc9-d5bc-4292-8aea-260c7bee621f",
+          "type": 2
+        }
+      },
+      "type": 1
+    },
+    "61c40baa-ea99-4171-8dee-af29e8b5d836": {
+      "description": "",
+      "name": "S",
+      "syncUrl": "",
+      "id": "61c40baa-ea99-4171-8dee-af29e8b5d836",
+      "items": {
+        "8096f44f-234a-4bb3-b4e8-8cc18853b142": {
+          "name": "S",
+          "description": "",
+          "parameters": "np=S&m=0&v=2.04",
+          "id": "8096f44f-234a-4bb3-b4e8-8cc18853b142",
+          "type": 2
+        },
+        "4d8181a6-6a41-4026-b105-4475376a8c03": {
+          "name": "SI",
+          "description": "",
+          "parameters": "np=SI&m=0&v=2.04",
+          "id": "4d8181a6-6a41-4026-b105-4475376a8c03",
+          "type": 2
+        },
+        "775d294b-c235-4fe7-95d5-d55f82de2e13": {
+          "name": "SJ",
+          "description": "",
+          "parameters": "np=SJ&m=0&v=2.04",
+          "id": "775d294b-c235-4fe7-95d5-d55f82de2e13",
+          "type": 2
+        },
+        "6eae9357-fba7-4514-8bea-f3bdf1630a37": {
+          "name": "SL",
+          "description": "",
+          "parameters": "np=SL&m=0&v=2.04",
+          "id": "6eae9357-fba7-4514-8bea-f3bdf1630a37",
+          "type": 2
+        },
+        "5fe0c8c2-e3e1-480b-a336-3cebc19c3a0c": {
+          "name": "SO",
+          "description": "",
+          "parameters": "np=SO&m=0&v=2.04",
+          "id": "5fe0c8c2-e3e1-480b-a336-3cebc19c3a0c",
+          "type": 2
+        },
+        "de724594-bf22-4c8f-b862-fe4a4074337e": {
+          "name": "ST",
+          "description": "",
+          "parameters": "np=ST&m=0&v=2.04",
+          "id": "de724594-bf22-4c8f-b862-fe4a4074337e",
+          "type": 2
+        },
+        "699536bc-469b-4f26-90fc-7f98c50532c2": {
+          "name": "SZ",
+          "description": "",
+          "parameters": "np=SZ&m=0&v=2.04",
+          "id": "699536bc-469b-4f26-90fc-7f98c50532c2",
+          "type": 2
+        }
+      },
+      "type": 1
+    },
+    "add72eb6-67b1-412e-8e0b-85de669f0699": {
+      "description": "",
+      "name": "T",
+      "syncUrl": "",
+      "id": "add72eb6-67b1-412e-8e0b-85de669f0699",
+      "items": {
+        "a0066d21-4e29-4cd4-afcc-f3defc15a2bf": {
+          "name": "T",
+          "description": "",
+          "parameters": "np=T&m=0&v=2.04",
+          "id": "a0066d21-4e29-4cd4-afcc-f3defc15a2bf",
+          "type": 2
+        },
+        "3dcc005f-c73b-46e9-a19e-31395acad428": {
+          "name": "TI",
+          "description": "",
+          "parameters": "np=TI&m=0&v=2.04",
+          "id": "3dcc005f-c73b-46e9-a19e-31395acad428",
+          "type": 2
+        },
+        "478068f7-e50d-4755-b3a0-859d1a66aa21": {
+          "name": "TJ",
+          "description": "",
+          "parameters": "np=TJ&m=0&v=2.04",
+          "id": "478068f7-e50d-4755-b3a0-859d1a66aa21",
+          "type": 2
+        },
+        "63bcc1b1-b06b-4272-a568-6d000d00debe": {
+          "name": "TL",
+          "description": "",
+          "parameters": "np=TL&m=0&v=2.04",
+          "id": "63bcc1b1-b06b-4272-a568-6d000d00debe",
+          "type": 2
+        },
+        "e4d33821-96f5-4363-b360-37167e2337ca": {
+          "name": "TO",
+          "description": "",
+          "parameters": "np=TO&m=0&v=2.04",
+          "id": "e4d33821-96f5-4363-b360-37167e2337ca",
+          "type": 2
+        },
+        "43e59f23-2616-43ea-ae29-89b758c88840": {
+          "name": "TS",
+          "description": "",
+          "parameters": "np=TS&m=0&v=2.04",
+          "id": "43e59f23-2616-43ea-ae29-89b758c88840",
+          "type": 2
+        },
+        "74fd8028-b9d7-40f6-81e8-781e5934a16d": {
+          "name": "TZ",
+          "description": "",
+          "parameters": "np=TZ&m=0&v=2.04",
+          "id": "74fd8028-b9d7-40f6-81e8-781e5934a16d",
+          "type": 2
+        }
+      },
+      "type": 1
+    },
+    "f1aa77d3-197d-46d0-9dc5-c7b95fac348c": {
+      "description": "",
+      "name": "Z",
+      "syncUrl": "",
+      "id": "f1aa77d3-197d-46d0-9dc5-c7b95fac348c",
+      "items": {
+        "d769b4a6-0405-46aa-acb8-ec2017171e77": {
+          "name": "Z",
+          "description": "",
+          "parameters": "np=Z&m=0&v=2.04",
+          "id": "d769b4a6-0405-46aa-acb8-ec2017171e77",
+          "type": 2
+        },
+        "527f8828-e57e-4ceb-bfeb-b941a7240418": {
+          "name": "ZI",
+          "description": "",
+          "parameters": "np=ZI&m=0&v=2.04",
+          "id": "527f8828-e57e-4ceb-bfeb-b941a7240418",
+          "type": 2
+        },
+        "19fb6111-0795-4f62-9654-78d004ebf541": {
+          "name": "ZJ",
+          "description": "",
+          "parameters": "np=ZJ&m=0&v=2.04",
+          "id": "19fb6111-0795-4f62-9654-78d004ebf541",
+          "type": 2
+        },
+        "f01f2d28-7a70-4a0c-8044-3665ebb17310": {
+          "name": "ZL",
+          "description": "",
+          "parameters": "np=ZL&m=0&v=2.04",
+          "id": "f01f2d28-7a70-4a0c-8044-3665ebb17310",
+          "type": 2
+        },
+        "221cacc0-fa24-4ec8-8ab1-8a574083ecd9": {
+          "name": "ZO",
+          "description": "",
+          "parameters": "np=ZO&m=0&v=2.04",
+          "id": "221cacc0-fa24-4ec8-8ab1-8a574083ecd9",
+          "type": 2
+        },
+        "447eb9dc-e5a4-4d83-85d4-c47f1168e911": {
+          "name": "ZS",
+          "description": "",
+          "parameters": "np=ZS&m=0&v=2.04",
+          "id": "447eb9dc-e5a4-4d83-85d4-c47f1168e911",
+          "type": 2
+        },
+        "fc87ce67-3617-4c9d-8030-f56f2b8a3a66": {
+          "name": "ZT",
+          "description": "",
+          "parameters": "np=ZT&m=0&v=2.04",
+          "id": "fc87ce67-3617-4c9d-8030-f56f2b8a3a66",
+          "type": 2
+        }
+      },
+      "type": 1
+    }
+  },
+  "name": "OpeningPatterns",
+  "syncUrl": "https://raw.githubusercontent.com/cuboktahedron/tetsimu2-data/main/explorer/OpeningPatterns.json"
+}
