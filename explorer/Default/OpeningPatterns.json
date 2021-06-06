@@ -412,5 +412,5 @@
     }
   },
   "name": "OpeningPatterns",
-  "syncUrl": "https://raw.githubusercontent.com/cuboktahedron/tetsimu2-data/main/explorer/OpeningPatterns.json"
+  "syncUrl": "https://raw.githubusercontent.com/cuboktahedron/tetsimu2-data/main/explorer/Default/OpeningPatterns.json"
 }

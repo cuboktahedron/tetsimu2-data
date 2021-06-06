@@ -4,20 +4,36 @@
   "id": "b9bb2fb4-992c-4691-91ca-b3f1fc698525",
   "items": {
     "92596030-2480-47c9-ac10-56c54dabe481": {
-      "description": "For practice of the first patterns.",
-      "name": "OpeningPatterns",
+      "type": 1,
+      "description": "For practice of the opening patterns.",
       "id": "92596030-2480-47c9-ac10-56c54dabe481",
       "items": {},
-      "syncUrl": "https://raw.githubusercontent.com/cuboktahedron/tetsimu2-data/main/explorer/OpeningPatterns.json",
-      "type": 1
+      "name": "OpeningPatterns",
+      "syncUrl": "https://raw.githubusercontent.com/cuboktahedron/tetsimu2-data/main/explorer/Default/OpeningPatterns.json"
+    },
+    "fe121cc9-d6ca-411e-a091-12c0f4691c2a": {
+      "type": 1,
+      "description": "",
+      "id": "fe121cc9-d6ca-411e-a091-12c0f4691c2a",
+      "items": {},
+      "name": "Record",
+      "syncUrl": "https://raw.githubusercontent.com/cuboktahedron/tetsimu2-data/main/explorer/Default/Record.json"
     },
     "5b386f81-6789-46a4-8b44-d2d0b2734a51": {
+      "type": 1,
       "description": "",
-      "name": "Ren",
       "id": "5b386f81-6789-46a4-8b44-d2d0b2734a51",
       "items": {},
-      "syncUrl": "https://raw.githubusercontent.com/cuboktahedron/tetsimu2-data/main/explorer/Ren.json",
-      "type": 1
+      "name": "Ren",
+      "syncUrl": "https://raw.githubusercontent.com/cuboktahedron/tetsimu2-data/main/explorer/Default/Ren.json"
+    },
+    "1a96e6cd-a8a9-49c6-9a23-787af66d0feb": {
+      "type": 1,
+      "description": "",
+      "id": "1a96e6cd-a8a9-49c6-9a23-787af66d0feb",
+      "items": {},
+      "name": "Stacking",
+      "syncUrl": "https://raw.githubusercontent.com/cuboktahedron/tetsimu2-data/main/explorer/Default/Stacking.json"
     }
   },
   "name": "Default",

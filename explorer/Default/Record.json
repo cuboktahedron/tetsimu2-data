@@ -1,0 +1,75 @@
+{
+  "type": 1,
+  "description": "",
+  "id": "fe121cc9-d6ca-411e-a091-12c0f4691c2a",
+  "items": {
+    "18a2844e-e1b0-4e70-bd7d-57f606c79a27": {
+      "description": "",
+      "name": "40Lines",
+      "id": "18a2844e-e1b0-4e70-bd7d-57f606c79a27",
+      "items": {
+        "3401e16c-da0b-4440-9afe-f1134db9ad3f": {
+          "description": "Last update: 2021/05/06",
+          "name": "pytt",
+          "id": "3401e16c-da0b-4440-9afe-f1134db9ad3f",
+          "items": {
+            "911da1af-f2c3-430f-a927-3603a9ec7704": {
+              "name": "01: 30.91",
+              "description": "Player: ふれあ\n\nhttps://www.youtube.com/watch?v=mXdytfq_T4c\n",
+              "parameters": "ns=Ud515amsfR1ifOnap0RfunuReNc60Tp5eVnN.jVOfil7K3irxZ0q.irPmAA_&ss=AJABQABAACAQG8EBtBAXwQLkECVAKoA1ADEAOsBEQEAAVoBGAGEAHMAnQC5AQAA8QFaAO0AcwBhANQAlQBxAP8AvADhARMAxAFaAHMA1ABoAS4AnQDAALcBHwF5AOsAcwCqAF8A7QC5AL0A1AEhARABRAEsAaUEEnAWkAcwDtAHMAJABhAG8AUADEAJMECqALwBFQEcBA4QFnANQBdwBzAMEA5QEZATgAgQB4AR8BcQDUAHMA5ADJAR8ATACqARgA1AE.AHMAewQHwEBzPA_&nn=5&or=2&m=1&v=2.04",
+              "id": "911da1af-f2c3-430f-a927-3603a9ec7704",
+              "type": 2
+            }
+          },
+          "syncUrl": "",
+          "type": 1
+        },
+        "af6cb871-01f9-4588-b733-0da9d71bc3f3": {
+          "description": "Last update: 2021/05/06",
+          "name": "pytt2",
+          "id": "af6cb871-01f9-4588-b733-0da9d71bc3f3",
+          "items": {
+            "cd74c30b-6864-421b-8409-74055f4783d8": {
+              "name": "01. 31.85",
+              "description": "Player: スカーレットせい\n\nhttps://www.youtube.com/watch?v=AwBNiU9Y_hU\n",
+              "parameters": "ns=.MrTi.NWZvl5UzMT.vOlaLuXkvaOjxvXcyNaP1inxrq0L5mXddPizXhu6AA_&ss=EAIAG8AJAA9AEEATwCUAKQA7QBhAPUA1wEABAtwEPARUAcwDBAJsAtAEZAPMEDZAKcBDAFKASsAcwB8BAcwAkAH8ACAA9AGEEB7ALcAFACVAJkA1ADHAOwBEQFNAUUBPAEAAVgBmQGjBBgQG-AHMBGQEAAVoBSwBzAPUAwQDUARcA4wEAAU0BEwBzAMQAqgDUBBSwDtALcBEQEABAcwCoAJUA6wDRALkAyQERAU0BRwEAAHMAqgCMAHMEAkAEMEBQADsAqgA0AI4ECaAHM8_&nn=5&or=2&m=1&v=2.04",
+              "id": "cd74c30b-6864-421b-8409-74055f4783d8",
+              "type": 2
+            }
+          },
+          "syncUrl": "",
+          "type": 1
+        }
+      },
+      "syncUrl": "",
+      "type": 1
+    },
+    "c5bfee2e-b360-4cd4-9a0d-adbc47fcb478": {
+      "description": "",
+      "name": "Ultra",
+      "id": "c5bfee2e-b360-4cd4-9a0d-adbc47fcb478",
+      "items": {
+        "cfe55602-6ab8-4619-94f4-f2c23db6b798": {
+          "description": "",
+          "name": "pytt",
+          "id": "cfe55602-6ab8-4619-94f4-f2c23db6b798",
+          "items": {
+            "0e35f90a-c80a-4d8d-8f1f-63d917c716b5": {
+              "name": "01: 122631",
+              "description": "Player: ふれあ\n\nhttps://www.youtube.com/watch?v=4QLUApK8cZA",
+              "parameters": "ns=c3pRrU35mauUZ9Rnzp3sTNnT2fipO7Vh7V0uL6lyZndR0.PjVZiu.hr6L8yvTmNp3jTpU.NT.l5a0eXsMvZWdy8Op6cXcNzK.snWrJT18l.ZVz6hTu8J0T9Uz9N6Oj8qZxy8re6NlOnaKu8erU58WLsXdxUzvLUxvUdP2ndKR1fkLXu8OdUW9L1ZXmsZXvmKYA__&ss=EAEABgAQQBLAH8AmgQFEAqADtAIsAxABmgHcAqAD3AMQAOYAzAH4AlQDLAKgA1ADtAOEBZwD8AVoA7wEgAXcA54D8ASgBWwBjgS8AzAQJUAxwEZBBHAGdASQBhwC3AfUAvYA5gDMEDhAGwEFnAHgBHQQNQAzQEjAS8BVwQYcEGwAc0BewHWAb8CJwQggCAAQOeAY4CVARkBTAFYAYQBnQC9gSIBcQQVUBSAFYALcEFlAbIB.QQagB3AHrAWuEDngPcBLAEpATsBSwQRkEGdBBfAGyAiEBQYFTBBWAEcBAvYD4AXEBTwFdAUkAtwQWUBVAQesB4QGlAagB-AQWuBVADngSgBTQF7ARkEGdAc8BVAGJATsEFBgZ0BewQVoEGEAdMAvYFJAaMBXQQVQBqAA5gSwEAzBBgQDhAO0EFnBBvwF0BA54BjgMgA9ACpBArQCVAUgBKQQQABGQGzBBVAC9hBKgEZADmEAzBAyQDMAOEEEDASwBewFnAPMA7QFIBA54D-ATEBHAQTsBVQBjhAlQQRkBAAEsBBswD0AYABTAILAgcAvYEZBAOYBtBAMwDNAMQEDhASQA7AFYBBSwGlAWkA54EnBBKAE7AXcAY4QJUA.AQRkBSAEDAS8EG1AVUAvYEtASABdQQYYAOYD0ASwAMwQOEAlQFMAVgEFnAO0BeAGtBA54FMASwBOwGzAGOA-AQJUEEZBBhwEkAR8BqwQawAvYFLBBSQGGAasBsAEZAXEEA5hAMwFPAUsA4QGtAYQEHcAmMEIEAaABaQQOeBOwQaMB1QH9AGOBpAFUBAlQQRkBnQH1AbAB3AIFBAvYGnAbABowA5gc0AMwGBBA4QGnAWcEGEBB3gDnhBpQE7AYQAY4EnAXcBWQCVARkEGzAXwAvYQVsBGQFPBBrQGwAXEEIIAaEBpwQfsCLQJQBAOYAzAgUA4QHhAgsEFpAOeBpAHZAisB3AIwAiUCZQE7BDEwKBAGOCAAJQAJUEIwARkBnQKKAqwC1wC9hAOYGwBCCQAzBA4QItAO0CYwJTAWcEDngGO8A__&nn=5&or=2&m=1&v=2.04",
+              "id": "0e35f90a-c80a-4d8d-8f1f-63d917c716b5",
+              "type": 2
+            }
+          },
+          "syncUrl": "",
+          "type": 1
+        }
+      },
+      "syncUrl": "",
+      "type": 1
+    }
+  },
+  "name": "Record",
+  "syncUrl": "https://raw.githubusercontent.com/cuboktahedron/tetsimu2-data/main/explorer/Default/Record.json"
+}
