@@ -30,6 +30,13 @@
       "parameters": "ns=r0XK8NeXOcr.Mqh7Wryh9nKzvxrijpW.U9Zm5dS.hrhyftUePMeV7s.KP1jS71A_&ss=EAzBANwAYAEEEBpBAnwCMAFMAuAE5AMUEHpAPUEFHBBTgKZAHqEB-ALgBIAF6AUMApoQXcBeAHQAOcBQAGTAKsCKgHJANKCKgKDBB6wGbAfACQQDXAlEED.hB7AQQMCTgEqhAfwIrBCFwQS8CfQQVaBxAIoBB8AIUBCeQKABC2gKjBAdwCrANKCIQFkANcB-AJWBA-oFkBCGQEDAhUEEqgdABmwIhBCKgQS8CGAQVaB-AJWAhwAfwQtEB6wJvAVsCgAQYKCSQQnECggQpwAeQDXBA-oQH8BzwQdAB8gIoAQMEEqhCKgHEAS8BVoB5PA_&nn=5&or=2&m=1&v=2.04",
       "id": "a6ea26da-ef71-46cb-865a-d002237e34f4",
       "type": 2
+    },
+    "8ddceab4-c906-454b-b666-ec4d97396136": {
+      "name": "Trinity",
+      "description": "Player: あめみやたいよう\n\nhttps://www.youtube.com/watch?v=F-w4-35DnuQ",
+      "parameters": "ns=zqnORdnxavhua8dyPlXLmhXzveVMR.julZ6.jNRUvzTvMz.ip6rxhQA_&ss=EAUAEAAJAAEAFAAcwCYAIsA1wDtAPUApAEvAGaBhwChANMEA5gGgEB0BAmADVBBIwAzALcEEtAPAEGDARAEF1BAY4EvAPcEFKAVUEGkAYcBcAQc8CJAGvAdwBDQGTBCLwA6gdwBlAIEBCNAQiQCjgKDAhUEA9hCYAQkMB9AQn0CWAMBApwAOoQDeEIIAgICbQKkAvMEIwBCVwKIAq0CuwLkAt8EA6guQDEAKsAwMAPYMSBDBwMBApwENtBDZwQx0AOoLZAzcAN7w&nn=5&or=2&m=1&v=2.04",
+      "id": "8ddceab4-c906-454b-b666-ec4d97396136",
+      "type": 2
     }
   },
   "name": "Stacking",
