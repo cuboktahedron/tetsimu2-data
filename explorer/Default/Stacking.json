@@ -37,6 +37,13 @@
       "parameters": "ns=zqnORdnxavhua8dyPlXLmhXzveVMR.julZ6.jNRUvzTvMz.ip6rxhQA_&ss=EAUAEAAJAAEAFAAcwCYAIsA1wDtAPUApAEvAGaBhwChANMEA5gGgEB0BAmADVBBIwAzALcEEtAPAEGDARAEF1BAY4EvAPcEFKAVUEGkAYcBcAQc8CJAGvAdwBDQGTBCLwA6gdwBlAIEBCNAQiQCjgKDAhUEA9hCYAQkMB9AQn0CWAMBApwAOoQDeEIIAgICbQKkAvMEIwBCVwKIAq0CuwLkAt8EA6guQDEAKsAwMAPYMSBDBwMBApwENtBDZwQx0AOoLZAzcAN7w&nn=5&or=2&m=1&v=2.04",
       "id": "8ddceab4-c906-454b-b666-ec4d97396136",
       "type": 2
+    },
+    "54148092-208f-49aa-bfc5-369d4e2c9065": {
+      "name": "Parapet(欄干)",
+      "description": "Player: cuboktahedron",
+      "parameters": "ns=Ruj-rhy7WhqcO9.iLvMauN6zkqz50XNeNnTjRu7UN.sy5dR.jLy9gA__&ss=EAUBASgQG0AJAAzAHAAxAQDuAiwBQBAeQQQMA8gEcBAk4CpBA4wCgBA64DUAR4BOwFIASMEGHASsBgQGhAUOByAGHAc8BkwGtAdgCNwQZuB6wIpBCIAQgkCVwQfOCUAKqBCNQJDAoQC1AJlAuICS4KbAwECuwKjgygCtALgAy8DFQLzAvuAYQKRAlgCqAMCApsCsAQqOC4gLnBC8wQxADAAQvuDLgM8AGEEKbAlsEKxAtUEKjhCuALaAwAC3wLzBC.7w&m=1&v=2.04",
+      "id": "54148092-208f-49aa-bfc5-369d4e2c9065",
+      "type": 2
     }
   },
   "name": "Stacking",
