@@ -1,0 +1,102 @@
+{
+  "description": "",
+  "name": "PerfectClear",
+  "id": "3998fae0-1bd0-417b-9f03-0787ab5e5c55",
+  "items": {
+    "7c0c65ca-ce13-4102-bd26-a7161e2c13e0": {
+      "name": "Perfect Clear Opener(A)",
+      "description": "開幕パフェ積み\n\n解説：\nhttps://tetrisopener.wicurio.com/index.php?%E9%96%8B%E5%B9%95%E3%83%91%E3%83%95%E3%82%A7%E7%A9%8D%E3%81%BF",
+      "parameters": "f=MzAAAFU0QAAFViRAAHdmIiAAB3Y_&np=I&nc=7&nn=5&m=0&v=2.04",
+      "id": "7c0c65ca-ce13-4102-bd26-a7161e2c13e0",
+      "type": 2
+    },
+    "0b63e91e-86b4-4caf-ad01-2f47c527006e": {
+      "name": "Perfect Clear Opener(B)",
+      "description": "開幕パフェ積み\n\n解説：\nhttps://tetrisopener.wicurio.com/index.php?%E9%96%8B%E5%B9%95%E3%83%91%E3%83%95%E3%82%A7%E7%A9%8D%E3%81%BF",
+      "parameters": "f=dwAAAiJncAAEQmZVAARDZVAAAzM_&np=I&nc=7&nn=5&m=0&v=2.04",
+      "id": "0b63e91e-86b4-4caf-ad01-2f47c527006e",
+      "type": 2
+    },
+    "23a19709-93d0-4f29-9c83-6a8da68cf35d": {
+      "name": "Grace System",
+      "description": "グレースシステム\n\n解説：\nhttps://w.atwiki.jp/tetrismaps/pages/33.html",
+      "parameters": "f=UREXAABVRHcAACVEcwAAIiMzAAA_&np=T&nc=7&nn=5&m=0&v=2.04",
+      "id": "23a19709-93d0-4f29-9c83-6a8da68cf35d",
+      "type": 2
+    },
+    "3d0e9752-3e77-4d98-9e55-a90376c715b2": {
+      "name": "Gamushiro Stacking(A)",
+      "description": "ガムシロ積み\n\n解説：\nhttps://tetris-matome.com/gamushiro/",
+      "parameters": "f=EAAAAEQQAAAARBIgAAAzEgAAVTNSB3VRM1UAd2EzJQd2YUQiIHdhRA__&h=c&nn=5&m=0&v=2.04",
+      "id": "3d0e9752-3e77-4d98-9e55-a90376c715b2",
+      "type": 2
+    },
+    "00db53ab-9aaf-44d3-a540-54aeb51be0e3": {
+      "name": "Gamushiro Stacking(B)",
+      "description": "ガムシロ積み\n\n解説：\nhttps://tetris-matome.com/gamushiro/",
+      "parameters": "f=RAAAAAFEAAAAASIAAAMxIncAADEiF3VQNyIWVQB3RBZlUHNEFlUDMw__&h=c&nn=5&m=0&v=2.04",
+      "id": "00db53ab-9aaf-44d3-a540-54aeb51be0e3",
+      "type": 2
+    },
+    "6d1aac4c-ff1a-40e6-8e25-ac2e5254c281": {
+      "description": "3巡パフェ後テンプレ\n\nPlayer: ハイドシグラー\nhttps://www.youtube.com/watch?v=pxzlwsHXQfc\n\n解説：\nhttps://tetrisopener.wicurio.com/index.php?3%E5%B7%A1%E3%83%91%E3%83%95%E3%82%A7%E5%BE%8C%E3%83%86%E3%83%B3%E3%83%97%E3%83%AC",
+      "name": "DPC",
+      "id": "6d1aac4c-ff1a-40e6-8e25-ac2e5254c281",
+      "items": {
+        "38496042-a6fd-470d-93a7-88f80cca32af": {
+          "name": "I",
+          "description": "",
+          "parameters": "h=2&nc=0&nn=5&m=0&v=2.04",
+          "id": "38496042-a6fd-470d-93a7-88f80cca32af",
+          "type": 2
+        },
+        "e8b989fa-92e0-4d42-9a1f-75e229737fd2": {
+          "name": "J",
+          "description": "",
+          "parameters": "h=4&nc=0&nn=5&m=0&v=2.04",
+          "id": "e8b989fa-92e0-4d42-9a1f-75e229737fd2",
+          "type": 2
+        },
+        "242e4315-3d64-4f59-9473-34025e91139b": {
+          "name": "L",
+          "description": "",
+          "parameters": "h=6&nc=0&nn=5&m=0&v=2.04",
+          "id": "242e4315-3d64-4f59-9473-34025e91139b",
+          "type": 2
+        },
+        "76b6eae5-f808-4341-8cf8-15205eb99a60": {
+          "name": "O",
+          "description": "",
+          "parameters": "h=8&nc=0&nn=5&m=0&v=2.04",
+          "id": "76b6eae5-f808-4341-8cf8-15205eb99a60",
+          "type": 2
+        },
+        "51d34bc4-9d59-4aac-8383-19d52045a42d": {
+          "name": "S",
+          "description": "",
+          "parameters": "h=a&nc=0&nn=5&m=0&v=2.04",
+          "id": "51d34bc4-9d59-4aac-8383-19d52045a42d",
+          "type": 2
+        },
+        "73176bb2-ae66-4778-8d03-9a8730ad7173": {
+          "name": "T",
+          "description": "",
+          "parameters": "h=c&nc=0&nn=5&m=0&v=2.04",
+          "id": "73176bb2-ae66-4778-8d03-9a8730ad7173",
+          "type": 2
+        },
+        "47b418a7-63a9-4523-97f8-36de8d105647": {
+          "name": "Z",
+          "description": "",
+          "parameters": "h=e&nc=0&nn=5&m=0&v=2.04",
+          "id": "47b418a7-63a9-4523-97f8-36de8d105647",
+          "type": 2
+        }
+      },
+      "syncUrl": "",
+      "type": 1
+    }
+  },
+  "syncUrl": "https://raw.githubusercontent.com/cuboktahedron/tetsimu2-data/main/explorer/Default/PerfectClear.json",
+  "type": 1
+}

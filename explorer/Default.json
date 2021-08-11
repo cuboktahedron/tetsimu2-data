@@ -34,6 +34,14 @@
       "items": {},
       "name": "Stacking",
       "syncUrl": "https://raw.githubusercontent.com/cuboktahedron/tetsimu2-data/main/explorer/Default/Stacking.json"
+    },
+    "3998fae0-1bd0-417b-9f03-0787ab5e5c55": {
+      "description": "",
+      "name": "PerfectClear",
+      "id": "3998fae0-1bd0-417b-9f03-0787ab5e5c55",
+      "items": {},
+      "syncUrl": "https://raw.githubusercontent.com/cuboktahedron/tetsimu2-data/main/explorer/Default/PerfectClear.json",
+      "type": 1
     }
   },
   "name": "Default",
