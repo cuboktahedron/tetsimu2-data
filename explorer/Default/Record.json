@@ -9,15 +9,22 @@
       "id": "18a2844e-e1b0-4e70-bd7d-57f606c79a27",
       "items": {
         "3401e16c-da0b-4440-9afe-f1134db9ad3f": {
-          "description": "Last update: 2021/05/06",
+          "description": "Last update: 2021/09/20",
           "name": "pytt",
           "id": "3401e16c-da0b-4440-9afe-f1134db9ad3f",
           "items": {
             "911da1af-f2c3-430f-a927-3603a9ec7704": {
-              "name": "01: 30.91",
+              "name": "02: 30.91",
               "description": "Player: ふれあ\n\nhttps://www.youtube.com/watch?v=mXdytfq_T4c\n",
               "parameters": "ns=Ud515amsfR1ifOnap0RfunuReNc60Tp5eVnN.jVOfil7K3irxZ0q.irPmAA_&ss=AJABQABAACAQG8EBtBAXwQLkECVAKoA1ADEAOsBEQEAAVoBGAGEAHMAnQC5AQAA8QFaAO0AcwBhANQAlQBxAP8AvADhARMAxAFaAHMA1ABoAS4AnQDAALcBHwF5AOsAcwCqAF8A7QC5AL0A1AEhARABRAEsAaUEEnAWkAcwDtAHMAJABhAG8AUADEAJMECqALwBFQEcBA4QFnANQBdwBzAMEA5QEZATgAgQB4AR8BcQDUAHMA5ADJAR8ATACqARgA1AE.AHMAewQHwEBzPA_&nn=5&or=2&m=1&v=2.04",
               "id": "911da1af-f2c3-430f-a927-3603a9ec7704",
+              "type": 2
+            },
+            "ea63a8a5-4fa6-4edd-93fa-6b806739d594": {
+              "name": "01: 30.40",
+              "description": "Player: SSENRED231\n\nhttps://www.youtube.com/watch?v=6V4IRZLmrYQ\n",
+              "parameters": "ns=.qjOVh7W9cLqnx5seR9ieOrXhnqzynrOLvUehXuT9hynNbsXxWPdhnqzXAA_&ss=EAIAD0AJABQAEEAbwQF8AlADtAMQBdwC5AKoA1AEPARgBaQQXUBAABzAKoBDwDUAQAA7QFpAHMAbAC9AMkEDtAKoBIQDUBBAAERAUgBoAIpAVoBbwBzALcBGQDUAS0BdQHMAHMBdADtAGEApwC5ASsBDwQNcBLAFFAWkB.wBzAOsAcwDJAGEAjAAkAFAAlQDkARwA0QDZAT0BGQGTAQMBWgQYQBcQF0AHMBGQQQABHAFxAHMAjQDzASEECqANQA-wEZBA5QBzAKoAjgBzPA_&nn=5&or=2&m=1&v=2.04",
+              "id": "ea63a8a5-4fa6-4edd-93fa-6b806739d594",
               "type": 2
             }
           },
