@@ -32,15 +32,22 @@
           "type": 1
         },
         "af6cb871-01f9-4588-b733-0da9d71bc3f3": {
-          "description": "Last update: 2021/05/06",
+          "description": "Last update: 2021/11/03",
           "name": "pytt2",
           "id": "af6cb871-01f9-4588-b733-0da9d71bc3f3",
           "items": {
             "cd74c30b-6864-421b-8409-74055f4783d8": {
-              "name": "01. 31.85",
+              "name": "02. 31.85",
               "description": "Player: スカーレットせい\n\nhttps://www.youtube.com/watch?v=AwBNiU9Y_hU\n",
               "parameters": "ns=.MrTi.NWZvl5UzMT.vOlaLuXkvaOjxvXcyNaP1inxrq0L5mXddPizXhu6AA_&ss=EAIAG8AJAA9AEEATwCUAKQA7QBhAPUA1wEABAtwEPARUAcwDBAJsAtAEZAPMEDZAKcBDAFKASsAcwB8BAcwAkAH8ACAA9AGEEB7ALcAFACVAJkA1ADHAOwBEQFNAUUBPAEAAVgBmQGjBBgQG-AHMBGQEAAVoBSwBzAPUAwQDUARcA4wEAAU0BEwBzAMQAqgDUBBSwDtALcBEQEABAcwCoAJUA6wDRALkAyQERAU0BRwEAAHMAqgCMAHMEAkAEMEBQADsAqgA0AI4ECaAHM8_&nn=5&or=2&m=1&v=2.04",
               "id": "cd74c30b-6864-421b-8409-74055f4783d8",
+              "type": 2
+            },
+            "850ea21d-5c82-4ea5-a145-e9280d09d2fc": {
+              "name": "01. 31.40",
+              "description": "Player: SSENRED231\n\nhttps://www.youtube.com/watch?v=-wnvWAWZ4Lg",
+              "parameters": "ns=zsXLnOVix9bm5qK8r13jRuiPehvapenU5ua9hWauZ8vWjNR.c5esXyMdNAA_&ss=ACAAUAEAAmAAkAGkAiQB-APAAjwDXAO0ApwDlAUgB0QE9AHMAlQBQAKoA1AD8AOsA4wBzAJUAmwFLAKoAiwDQAO0BBQEdAUQA4wGdAaABWgGEAHMAjQDlAQABSAFrAT0BWgGTAXQAcwEZARwA1AF2AT0AcwB7AOUAfADtANQA8AFFAHMAfQCLAIEA1AEAAOUAmABzAKoAOwBvANQAlQCNAJ0BSwDjAQAA7QE7BBHQFAAVoAcwDxANQAcwBQBAqgA2AFwEBxAHMAPjw__&nn=5&or=2&m=1&v=2.04",
+              "id": "850ea21d-5c82-4ea5-a145-e9280d09d2fc",
               "type": 2
             }
           },
