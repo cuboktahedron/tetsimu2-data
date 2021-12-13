@@ -1,6 +1,6 @@
 {
+  "type": 1,
   "description": "",
-  "name": "PerfectClear",
   "id": "3998fae0-1bd0-417b-9f03-0787ab5e5c55",
   "items": {
     "7c0c65ca-ce13-4102-bd26-a7161e2c13e0": {
@@ -39,8 +39,8 @@
       "type": 2
     },
     "6d1aac4c-ff1a-40e6-8e25-ac2e5254c281": {
+      "type": 1,
       "description": "3巡パフェ後テンプレ\n\nPlayer: ハイドシグラー\nhttps://www.youtube.com/watch?v=pxzlwsHXQfc\n\n解説：\nhttps://tetrisopener.wicurio.com/index.php?3%E5%B7%A1%E3%83%91%E3%83%95%E3%82%A7%E5%BE%8C%E3%83%86%E3%83%B3%E3%83%97%E3%83%AC",
-      "name": "DPC",
       "id": "6d1aac4c-ff1a-40e6-8e25-ac2e5254c281",
       "items": {
         "38496042-a6fd-470d-93a7-88f80cca32af": {
@@ -91,12 +91,236 @@
           "parameters": "h=e&nn=5&m=0&v=2.04",
           "id": "47b418a7-63a9-4523-97f8-36de8d105647",
           "type": 2
+        },
+        "71ca2784-99b9-470b-9877-6d715b2b3eb5": {
+          "description": "",
+          "name": "I --",
+          "id": "71ca2784-99b9-470b-9877-6d715b2b3eb5",
+          "items": {
+            "08719034-84a5-40d4-89b8-a011db87d114": {
+              "name": "O > L",
+              "description": "",
+              "parameters": "f=MAAAAAAwBwAAATN3VQAhRHVQACFEERECIQ__&h=c&nn=5&m=0&v=2.06",
+              "id": "08719034-84a5-40d4-89b8-a011db87d114",
+              "type": 2
+            },
+            "9f4466f7-a5c8-4020-b062-ad76160b3e92": {
+              "name": "I > L > O",
+              "description": "",
+              "parameters": "f=RAAFdwBEMAVXcDMwAFIiEREBERI_&h=c&nn=5&m=0&v=2.06",
+              "id": "9f4466f7-a5c8-4020-b062-ad76160b3e92",
+              "type": 2
+            },
+            "59022890-0744-432c-8205-9119c5cbc323": {
+              "name": "L > J > I",
+              "description": "",
+              "parameters": "f=EAAAAAAQAHAAABRHcAIiFEcABVIxERBVMz8_&h=c&nn=5&m=0&v=2.06",
+              "id": "59022890-0744-432c-8205-9119c5cbc323",
+              "type": 2
+            },
+            "24793ed1-e50d-4933-b01b-4811feba179c": {
+              "name": "J > L > I",
+              "description": "",
+              "parameters": "f=EAAAAAAQAAAAABAAAFAAEzMAVUQjdwAFRCIncBER&h=c&nn=5&m=0&v=2.06",
+              "id": "24793ed1-e50d-4933-b01b-4811feba179c",
+              "type": 2
+            }
+          },
+          "syncUrl": "",
+          "type": 1
+        },
+        "3e0596e2-4005-4803-8550-afc3e367ace2": {
+          "description": "",
+          "name": "T --",
+          "id": "3e0596e2-4005-4803-8550-afc3e367ace2",
+          "items": {
+            "3a8ce7b1-bfaa-4bac-b01f-8bf6b8385d1d": {
+              "name": "O > L",
+              "description": "",
+              "parameters": "f=UAAAAQBVAAAxAAV3MzEgZmd0QSImAARP&h=c&nn=5&m=0&v=2.06",
+              "id": "3a8ce7b1-bfaa-4bac-b01f-8bf6b8385d1d",
+              "type": 2
+            },
+            "2f28c7e3-2b57-4525-9436-18245a6bc213": {
+              "name": "L > O && L >  S",
+              "description": "",
+              "parameters": "f=EiAAAFASAAdEVRJgd0Q1FmZwMzA_&h=c&nn=5&m=0&v=2.06",
+              "id": "2f28c7e3-2b57-4525-9436-18245a6bc213",
+              "type": 2
+            },
+            "dd47a4e1-b6bd-4fcd-8989-962fbe58ac38": {
+              "name": "S > L > O",
+              "description": "",
+              "parameters": "f=RAAAAABEAAAAADMxERACNVZ3AAJVZmdwIg__&h=c&nn=5&m=0&v=2.06",
+              "id": "dd47a4e1-b6bd-4fcd-8989-962fbe58ac38",
+              "type": 2
+            }
+          },
+          "syncUrl": "",
+          "type": 1
+        },
+        "96ef1c07-cb25-435a-ab7e-a2e729b31251": {
+          "description": "",
+          "name": "O --",
+          "id": "96ef1c07-cb25-435a-ab7e-a2e729b31251",
+          "items": {
+            "09f77a0b-8685-428c-b615-16e61ad3ae0a": {
+              "name": "J > O",
+              "description": "",
+              "parameters": "f=cAAAAAdwAAAAFwADNEIUQFU0QhRFUDAiHw__&h=c&nn=5&m=0&v=2.06",
+              "id": "09f77a0b-8685-428c-b615-16e61ad3ae0a",
+              "type": 2
+            },
+            "fdfbf23b-ce34-4668-9608-0306ee3199e4": {
+              "name": "O > J",
+              "description": "",
+              "parameters": "f=cAAAABdwAAAAFwADMiIUQFU0QhRFUDRA&h=c&nn=5&m=0&v=2.06",
+              "id": "fdfbf23b-ce34-4668-9608-0306ee3199e4",
+              "type": 2
+            }
+          },
+          "syncUrl": "",
+          "type": 1
+        },
+        "d8e94a33-f8ac-4743-901e-fb2da101268d": {
+          "description": "",
+          "name": "S --",
+          "id": "d8e94a33-f8ac-4743-901e-fb2da101268d",
+          "items": {
+            "e6cd8a13-f9dc-4497-85fe-9badb075d790": {
+              "name": "O > S",
+              "description": "",
+              "parameters": "f=UAAAAABVFTMiAAUVUydwRBBTIHdEHw__&h=c&nn=5&m=0&v=2.06",
+              "id": "e6cd8a13-f9dc-4497-85fe-9badb075d790",
+              "type": 2
+            },
+            "4cc43f3f-7abe-4f97-aad6-8abd1ed01ddb": {
+              "name": "S > O",
+              "description": "",
+              "parameters": "f=RAAAAQBEAAABAAVXczEgVVV3MSIlUAA-&h=c&nn=5&m=0&v=2.06",
+              "id": "4cc43f3f-7abe-4f97-aad6-8abd1ed01ddb",
+              "type": 2
+            }
+          },
+          "syncUrl": "",
+          "type": 1
+        },
+        "6cb75155-8b6d-481b-85a4-e9f85698218c": {
+          "description": "",
+          "name": "Z --",
+          "id": "6cb75155-8b6d-481b-85a4-e9f85698218c",
+          "items": {
+            "a8fbed6f-dd7c-4a89-8faf-d409b40d1081": {
+              "name": "O > Z",
+              "description": "",
+              "parameters": "f=cAAAABdwAAAAFwADMicUQFUydxRFUDJw&h=c&nn=5&m=0&v=2.06",
+              "id": "a8fbed6f-dd7c-4a89-8faf-d409b40d1081",
+              "type": 2
+            },
+            "3e150460-3ede-4b88-ab8c-a93fc5ec89c4": {
+              "name": "Z > O",
+              "description": "",
+              "parameters": "f=RAAAAABEABIlV3AAElV3dwMSAAdzMx8_&h=c&nn=5&m=0&v=2.06",
+              "id": "3e150460-3ede-4b88-ab8c-a93fc5ec89c4",
+              "type": 2
+            }
+          },
+          "syncUrl": "",
+          "type": 1
+        },
+        "4c42561b-5058-4b61-80f2-339cfc62b63e": {
+          "description": "",
+          "name": "J --",
+          "id": "4c42561b-5058-4b61-80f2-339cfc62b63e",
+          "items": {
+            "227cfcdd-6a9e-4635-8aca-a93cc7ffc332": {
+              "name": "O > J &&  Z > S",
+              "description": "",
+              "parameters": "f=EgAAADMSIlUAAxRFV3AjFEAAdyIv&h=c&nn=5&m=0&v=2.06",
+              "id": "227cfcdd-6a9e-4635-8aca-a93cc7ffc332",
+              "type": 2
+            },
+            "68a35250-a655-4d60-bd32-94dd59249818": {
+              "name": "O > J && S > Z",
+              "description": "",
+              "parameters": "f=IAAAABAgAAAzEiV3AAMURVdwIxRAUAAiLw__&h=c&nn=5&m=0&v=2.06",
+              "id": "68a35250-a655-4d60-bd32-94dd59249818",
+              "type": 2
+            },
+            "0178b912-af63-4c3a-96ca-089eca5f6799": {
+              "name": "L > O",
+              "description": "",
+              "parameters": "f=EABVcAAURVdwAhRDJwACEzMiICI_&h=c&nn=5&m=0&v=2.06",
+              "id": "0178b912-af63-4c3a-96ca-089eca5f6799",
+              "type": 2
+            },
+            "9db1f3cc-e4bd-4511-a561-3db146c005e7": {
+              "name": "J > O && O > L && Z > S",
+              "description": "",
+              "parameters": "f=MQAAADMxIlUABEElV3AkQSAAdyIv&h=c&nn=5&m=0&v=2.0",
+              "id": "9db1f3cc-e4bd-4511-a561-3db146c005e7",
+              "type": 2
+            },
+            "2d6ae600-443f-4cf6-ba0a-95b9e413cf99": {
+              "name": "J > O && O > L && S > Z",
+              "description": "",
+              "parameters": "f=EAAAAAMQAAADMxJXcABEElV3AkQiBQACIg__&h=c&nn=5&m=0&v=2.06",
+              "id": "2d6ae600-443f-4cf6-ba0a-95b9e413cf99",
+              "type": 2
+            }
+          },
+          "syncUrl": "",
+          "type": 1
+        },
+        "0b4873f8-035e-47c6-96a1-101e6f2f1ac0": {
+          "description": "",
+          "name": "L --",
+          "id": "0b4873f8-035e-47c6-96a1-101e6f2f1ac0",
+          "items": {
+            "0a506f35-6e0f-40d6-95e1-4cfdb05e0e08": {
+              "name": "J > O",
+              "description": "",
+              "parameters": "f=V3AAEwBVd0QTAAUyRBMwMzIiHw__&h=c&nn=5&m=0&v=2.06",
+              "id": "0a506f35-6e0f-40d6-95e1-4cfdb05e0e08",
+              "type": 2
+            },
+            "7576f505-eac3-473d-8bfb-89e22355af8f": {
+              "name": "L > O && O > J && S > Z",
+              "description": "",
+              "parameters": "f=IAAAAAAiIAAAAUQAB3MxRDBVdzEzNVAAMQ__&h=c&nn=5&m=0&v=2.06",
+              "id": "7576f505-eac3-473d-8bfb-89e22355af8f",
+              "type": 2
+            },
+            "372139bc-60ea-4e0c-99b7-70e592f7751a": {
+              "name": "L > O && O > J && Z > S",
+              "description": "",
+              "parameters": "f=IAAAAAEiIAAAAUQABVcxRDBVdzEzMABwMw__&h=c&nn=5&m=0&v=2.06",
+              "id": "372139bc-60ea-4e0c-99b7-70e592f7751a",
+              "type": 2
+            },
+            "f3c661cc-4251-4ccd-b3c0-451a918eccc9": {
+              "name": "O > L &&  Z > S",
+              "description": "",
+              "parameters": "f=EAAAADASIAAAMBIABVczEjBVd0QzMABwRA__&h=c&nn=5&m=0&v=2.06",
+              "id": "f3c661cc-4251-4ccd-b3c0-451a918eccc9",
+              "type": 2
+            },
+            "c57a6018-0cfd-4b1a-bdf8-0de84b0a1d92": {
+              "name": "O > L &&  S > Z",
+              "description": "",
+              "parameters": "f=EAAAAAASIAAAAxIAB3MzEjBVd0QzNVAARA__&h=c&nn=5&m=0&v=2.06",
+              "id": "c57a6018-0cfd-4b1a-bdf8-0de84b0a1d92",
+              "type": 2
+            }
+          },
+          "syncUrl": "",
+          "type": 1
         }
       },
-      "syncUrl": "",
-      "type": 1
+      "name": "DPC",
+      "syncUrl": ""
     }
   },
-  "syncUrl": "https://raw.githubusercontent.com/cuboktahedron/tetsimu2-data/main/explorer/Default/PerfectClear.json",
-  "type": 1
+  "name": "PerfectClear",
+  "syncUrl": "https://raw.githubusercontent.com/cuboktahedron/tetsimu2-data/main/explorer/Default/PerfectClear.json"
 }
